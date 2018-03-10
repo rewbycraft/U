@@ -2,6 +2,22 @@
 	"version": 0,
 	"dependencies": [
 		{
+			"importpath": "github.com/pborman/uuid",
+			"repository": "https://github.com/pborman/uuid",
+			"vcs": "git",
+			"revision": "c65b2f87fee37d1c7854c9164a450713c28d50cd",
+			"branch": "master",
+			"notests": true
+		},
+		{
+			"importpath": "github.com/pebbe/zmq4",
+			"repository": "https://github.com/pebbe/zmq4",
+			"vcs": "git",
+			"revision": "6decad45434f1cddeccf1dc5d9d86d8249decd19",
+			"branch": "master",
+			"notests": true
+		},
+		{
 			"importpath": "github.com/wadey/gocovmerge",
 			"repository": "https://github.com/wadey/gocovmerge",
 			"vcs": "git",
